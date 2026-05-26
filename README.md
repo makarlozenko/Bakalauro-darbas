@@ -9,9 +9,9 @@ Monte Karlo simuliacijomis pagrįsta juridinių asmenų nemokumo tikimybės (PD)
 Analizuojami klasikiniai binominės proporcijos pasikliovimo intervalai:
 
 - Wald;
-- Clopper--Pearson;
+- Clopper-Pearson;
 - Wilson;
-- Agresti--Coull.
+- Agresti-Coull.
 
 Tyrime lyginami du atvejai:
 
@@ -28,7 +28,7 @@ Papildomai nagrinėjama efektyvaus imties dydžio korekcija, skirta įvertinti p
 ├── plots/
 ├── README.md
 └── LICENSE
-
+```text
 
 
 ## Failų aprašymas
