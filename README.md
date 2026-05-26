@@ -28,7 +28,7 @@ Papildomai nagrinėjama efektyvaus imties dydžio korekcija, skirta įvertinti p
 ├── plots/
 ├── README.md
 └── LICENSE
-```text
+```
 
 
 ## Failų aprašymas
